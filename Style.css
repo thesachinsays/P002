@@ -1,0 +1,173 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.bgimage
+{
+    background-image: url('luke-porter-rg1Z9NtEa80-unsplash.jpg');
+
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100vh;
+    
+}
+.menu
+{
+    width: 100%;
+    height: 100px;
+    background-color:rgba(0,0,0,0.5); 
+    color: white
+}
+.leftmenu
+{
+    width: 25%;
+    line-height:80px;
+    float left;
+    
+}
+.leftmenu h4
+{
+ padding-left: 70px;
+ font-weight: bold;
+ color: white;
+    font-size: 22px;
+    font-family: 'Rock Salt', cursive;
+}
+
+.rightmenu ul
+{
+    width: 75%;
+    height: 100%;
+    float: right;
+}
+.rightmenu
+{
+    margin-left: 300px;
+}
+
+.rightmenu ul li
+{
+    font-family: 'Rock Salt', cursive;
+    display: inline;
+    list-style: none;
+    font-size: 15px;
+    color:white;
+    font-weight:bold;
+    line-height: 100px;
+    margin-left: 40px;
+    text-transform: uppercase;
+}
+
+
+#firstcolor
+{
+    color: orange;
+}
+
+.rightmenu ul li:hover
+{
+   color: orange;
+}
+
+.text
+{
+    
+    text-align: center;
+    margin-top: 250px;
+    text-transform: uppercase;
+    color: white;
+    
+    
+}
+
+.text h4
+{
+    font-size: 15px;
+    font-family: 'Rock Salt', cursive;
+}
+.text h1{
+    font-size: 50px;
+    font-family: 'Rock Salt', cursive;  
+    margin:14px 0px;
+    
+}
+
+.h3
+{
+    font-size: 12px;
+    font-family: 'Rock Salt', cursive; 
+}
+
+#buttonone
+{
+   background-color: white;
+   border: none;
+    font-family: 'Rock Salt', cursive;
+    text-transform:uppercase;
+    font-weight: bold;
+    line-height: 40px;
+    width: 150px;
+    margin-top: 25px;
+    border: 3px soloid white;
+    
+}
+
+#buttontwo
+{
+    background-color: transparent;
+    font-family: 'Rock Salt', cursive;
+    text-transform:uppercase;
+    font-weight: bold;
+    line-height: 40px;
+    width: 150px;
+    margin-top: 25px;
+    border: 3px soloid white;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
